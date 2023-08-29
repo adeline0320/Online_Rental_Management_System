@@ -1,0 +1,28 @@
+SkyVille 8 @ Benteng	 Jalan Klang Lama (Old Klang Road),Jalan Klang Lama	 Jalan Klang Lama (Old Klang Road)	 58200	 Kuala Lumpur,1,1500,Townhouse,3,3,1,Swimming-pool  Air-con  Water heater  Swimming-pool  Air-con  Water heater Gynm,1.43,1052,b1,Inactive
+Vista Bayu	 Taman Bayu Perdana	 Klang,Jalan Batu Unjur 9	 Taman Bayu Perdana	 41200	 Selangor,2,1300,Apartment,3,2,1,Swimming-pool	 24-Hour Security,1.18,1100,vista,Active
+Prima Bayu Apartment	Taman Bayu Perdana	Klang,Jalan Batu Unjur 9	 Taman Bayu Perdana	 42000	 Selangor,4,1300,Apartment,3,2,1,Swimming-pool	 Air-con	 Water heater	 24-Hours Security,1.24,1050,prima,Active
+Palm Garden Apartment	Kapar,Persiaran Bukit Raja	 Kapar	 41150	 Selangor,5,1200,Apartment,3,2,1,Swimming-pool	 Water heater	 24-Hours Security	Mini Marker,1.15,1044,palm,Active
+Bbk Condominium	 Bandar Baru Klang	 Klang,Persiaran Bukit Raja 1	 Bandar Baru Klang	 41150	 Selangor,6,6000,Condominium,3,3,1,Air-con  Water heater   Air-con  Water heater  Fully Funished Washing machine Bed,0.81,1482,bbk,inactive
+Hyde Tower	 Shah Alam,i-City	 Seksyen 7	 Shah Alam	 40000	 Selangor,7,1200,Condominium,1,1,0,Fully Furnished,2.58,466,hyde,Active
+Menara U2	 Shah Alam,Jalan Boling Padang E 13/E	 Seksyen 13	 Shah Alam	 4010	 Selangor,9,1400,Condominium,2,1,1,Swimming-pool	 Air-con	 Fully Furnished	 Balcony,3.11,450,menara,Active
+Monterey 	 Eco Sanctuary	 Shah Alam,Persiaran Eco Sanctuary	 41200 Selangor,10,4500,Bungalow,5,6,1,Air-con	 Jogging Track	Gym,1.28,3522,monterey,Active
+Pangsapuri Jaya	 Taman TTDI Jaya	 Shah Alam,Jalan Ilham U2/14	 Taman TTDI Jaya	 40150	 Selangor,11,1300,Apartment,3,2,1,Swimming-pool	 Air-con	 24-Hours Security	Playground,1.53,850,pangsapurijaya,Active
+Cheria Residence	 Tropicana aman	 Kota Kemuning,Cheria	 Kota Kemuning	 Tropicana aman	 Eco Sanctuary	 Kota Kemuning (CORNER LOT)	 Cheria Residence	 Tropicana aman	 Kota Kemuning	 42500	 Selangor,12,1000,Bungalow,5,5,5,Air-con	 Garden	 Balcony,1.23,3670,cheria,Active
+Kemuning Aman	Shah Alam,Lintang Bukit Rimau	 Shah Alam	 40460	 Selangor,13,900,Condominium,3,2,2,24-Hours Security	Playground,1.22,736,kemuning,Active
+Geo Bukit Rimau	Bukit Rimau	Shah Alam,Jalan Sungai Burung 32/68	 Bukit Rimau	 40460	 Selangor,14,3000,Townhouse,2,2,2,Swimming-pool	 Air-con	 Hall	 BBQ,4.58,655,geo,Active
+Impiria Residensi	 Bandar Bukit Tinggi 2	 Klang,Jalan Batu Nilam 16	 Bandar Bukit Tinggi 2	 41200	 Selangor,15,2200,Condominium,4,3,3,Swimming-pool	 Air-con	 Jogging Track	Gym	BBQ,1.67,1317,b1,Active
+Bayu tinggi	 Bandar Bukit Tinggi,Bayu tinggi	 Selangor,16,1950,Townhouse,4,3,0,Air-con	 Sofa	Dining table,1.22,1600,b1,Active
+Floridale Condominium,Floridale Condominium	 Kuching	 Sarawak,17,1200,Condominium,3,2,1,Swimming-pool  Air-con  Water heater   24 hours security,0.94,1280,floridale,Active
+Flat Sri Sabah	 Cheras,Cheras	 Kuala Lumpur,18,900,Flat,2,1,1,Air-con   Badminton hall  Eateries  Jogging track  Playground,7300,1.10,flatCheras,Active
+Arcadia (Penang),85 Jalan Kelawei	 Georgetown	 Penang,19,1700,Apartment,3,2,1,Air-con  Water heater   24 hours security,1.70,1000,arcadia,Active
+Suria Stonor,Jalan Stonor	 KLCC	 KL City	 Kuala Lumpur,20,6000,Condominium,4,4,1,Swimming-pool  Air-con  Water heater   Barbeque Area  Playground  Lift lobby  Lounge  Pool Deck  24 hours security,1.98,3033,suria,Active
+Perdana Residence,Jalan Kuala Muda	 Langkawi	 Kedah,21,2300,Apartment,2,2,1,Swimming-pool  Air-con  Water heater,2.28,1010,perdana,Active
+Sky Residences @ Persiaran Cinta Sayang,Persiaran Cinta Sayang	 Sungai Petani	 Kedah,22,2500,Condominium,3,2,1,Swimming-pool  Air-con  Water heater   Barbeque Area  Clubhouse  Gymnasium room  Playground  24 hours security  Tennis courts,1517,1.65,sayang,Active
+Gurney Paragon,Gurney Paragon Persiaran Gurney	 Gurney Drive	 Georgetown	 Penang,23,6000,Condominium,4,4,0,Swimming-pool   Barbeque Area  Business Centre  Fitness corner  Function room  Gymnasium room  Jacuzzi  Meeting room  Aeroyoga Room  24 hours security,2.14,2800,gurney,Active
+Ocean Palms (Permata Idaman),Jalan Klebang Besar	 Tanjong Kling	 Tanjong Kling	 Melaka,24,10000,Condominium,5,5,0,Swimming-pool  Air-con  Water heater   Playground  24 hours security  Sauna  Tennis courts,2.86,3500,oceanPalms,Active
+Pangsapuri Laksamana Cheng Ho A,Bukit Gedong	 Bukit Serindit	 Melaka,25,300,Apartment,1,1,1,Air-con  Water heater   Cafe  Jogging track  Nursery  Playground  Restaurant  Mini-Mart  Reflexology Path  Salon,0.46,650,chengho,Active
+Barrington Square,Tanah Rata	 Brinchang	 Pahang,26,1500,Condominium,2,2,1,Barbeque Area  24 hours security,2.02,743,barrington,Active
+Bangsar Peak,Jalan Medang Serai	 Bukit Bandaraya	 Bangsar	 Kuala Lumpur,27,17000,Townhouse,7,6,1,Swimming-pool  Air-con  Water heater   Barbeque Area  Clubhouse  Gymnasium room  Jacuzzi  Jogging track  Playground  24 hours security  Wading pool,3.12,5450,peak,Active
+Cyberia Crescent 1	 Cyberjaya Single Room With Fully Furnished For Rent,Jalan Fauna 1	 Cyberjaya	 Sepang	 Selangor,28,380,Townhouse,1,0,1,Swimming-pool  Air-con  Water heater   Gymnasium room  Multi-purpose hall  24 hours security,3.17,120,cyberia,Active
+Endah Puri,Jalan 1/149e	 Taman Endah	 Sri Petaling	 Kuala Lumpur,29,2000,Flat,4,3,1,Swimming-pool  Air-con  Water heater   Barbeque Area  Cafe  Gymnasium room   Mini-Mart  Palyground  Sauna  24 hours security  Tennis courts  Wadding pool,1.00,2000,endah,Active
+Country Heights Kajang,Jalan Bayu Nyaman	 Country Heights	 Kajang	 Selangor,30,38000,Bungalow,10,9,1,Swimming-pool  Air-con  Water heater   Adventure park  Badminton hall  Basketball court  Barbeque Area  Cafe  Playground  Clubhouse  Gymnasium room   Jogging track  Mini-Mart  24 hours security  Tennis courts,0.47,81249,country,Active
